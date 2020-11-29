@@ -29,6 +29,7 @@
 
     <dependencies>
         <!-- Spring Begin -->
+        <!-- Spring Begin test -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
